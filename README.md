@@ -1,4 +1,5 @@
-### Hi there 👋
+### andi furqon, NIM : 18.12.0848
+
 
 <!--
 **andifurqon/andifurqon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
